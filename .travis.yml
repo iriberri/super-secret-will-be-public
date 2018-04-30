@@ -7,3 +7,4 @@ script: true
 env:
   global:
   - SUPER_SECRET_TOKEN=aabbccddeeffgg
+  - ANOTHER_SUPER_SECRET=hi
