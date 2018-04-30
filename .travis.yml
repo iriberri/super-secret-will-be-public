@@ -1,0 +1,9 @@
+language: ruby
+
+install: true
+
+script: true
+
+env:
+  global:
+  - SUPER_SECRET_TOKEN=aabbccddeeffgg
